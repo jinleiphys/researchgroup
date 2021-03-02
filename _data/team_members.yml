@@ -1,0 +1,47 @@
+- name: 任中洲
+  photo: zren.jpg
+  info: 教授 博导
+  email: zren@tongji.edu.cn
+  number_educ: 5
+  education1: 1979.9-1983.7 兰州大学现代物理系 本科生，获学士学位
+  education2: 1983.9-1985.7 兰州大学现代物理系 硕士研究生，提前攻博
+  education3: 1985.9-1988.6 南京大学物理系 博士研究生，获博士学位
+  education4: 2001.8  获国家杰出青年基金
+  education5: 2003.2  受聘教育部长江学者特聘教授 
+
+- name: 傅冠健
+  photo: gjfu.jpg
+  info: 副教授 博导
+  email: gjfu@tongji.edu.cn
+  number_educ: 3
+  education1: 2010年 上海交通大学物理系 学士学位
+  education2: 2015年 上海交通大学物理与天文系 博士学位
+  education3: 中国核物理学会“胡济民教育科学奖” 
+
+- name: 章颖理
+  photo: yinglizhang.jpeg
+  info: 特聘研究员 博导
+  info1: 本人研究领域为宇宙学，主要研究集中于原初黑洞、宇宙早期暴胀模型、暗能量、修改引力理论、量子宇宙学等方向
+  email: yingli@tongji.edu.cn
+  number_educ: 6
+  education1: 2001.9-2005.7 华东理工大学 本科生，获学士学位
+  education2: 2006.9-2009.7 上海师范大学 硕士研究生，获硕士学位
+  education3: 2010.10-2013.10  京都大学 博士研究生，获博士学位
+  education4: 2014.10-2017.3 中国科学院国家天文台与Institute of Cosmology and Gravitation, University of Portsmouth, 联合博士后
+  education5: 2017.4-2019.3 Tokyo University of Science 博士后研究员
+  education6: 2019.4-2020.9 Tokyo Institute of Technology 特别研究员
+  
+  
+- name: 金磊
+  photo: jin.jpg
+  info: 特聘研究员 博导
+  info1: 量子散射，量子少体，原子核反应
+  email: jinl@tongji.edu.cn
+  number_educ: 5
+  education1: 2006.9-2010.7 东北大学 本科生，获学士学位
+  education2: 2010.9-2013.7 中科院近代物理研究所 硕士研究生，获硕士学位
+  education3: 2013.10-2016.7 塞维利亚大学 博士研究生，获博士学位
+  education4: 2016.8-2019.8  俄亥俄大学 博士后
+  education5: 2019.11-2020.10   INFN-Pisa 博士后
+
+

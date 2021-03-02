@@ -1,0 +1,52 @@
+- name: 王震
+  photo: wangzhen.jpg
+  info: 直博生
+  info1: 对形变核的alpha衰变进行相关的研究计算，现在正在学习Coupled Channels Methods等相关计算方法
+  email: wang_zhen@tongji.edu.cn
+  number_educ: 5
+  education1: 2014.9-2018.6，同济大学物理科学与工程学院，应用物理学(声学方向)，本科，获理学学士学位
+  education2: 2018.9-至今，同济大学物理科学与工程学院，物理学（一级学科），直博生，在读。
+  education3:
+  education4:
+  education5:
+
+- name: 袁子懿
+  photo: zyyuan.jpg
+  info: 直博生
+  info1: α衰变
+  email: zyyuann@tongji.edu.cn
+  number_educ: 5
+  education1: 2015.09-2019.06 苏州大学 本科生，获学士学位
+  education2: 2019.09-至今 同济大学 直博生
+  education3:
+  education4:
+  education5:
+
+- name: 张涵韬
+  photo: 张涵韬.jpg
+  info: 直博生
+  email: 2011309@tongji.edu.cn
+  number_educ: 2
+  education1: 2016.9-2020.6 同济大学物理科学与工程学院，应用物理学，本科，获理学学士学位
+  education2: 2020.9-至今   同济大学物理科学与工程学院，物理学，直博生，在读
+
+
+
+- name: 李松桀
+  photo: rock.jpg
+  info: 博士生
+  info1: 轻核中的alpha凝聚效应，用分子轨道模型或者THSR容器模型研究轻核核素
+  email: songjie_li@tongji.edu.cn
+  number_educ: 3
+  education1: 2012.9-2016.6 桂林理工大学   获学士学位
+  education2: 2016.9-2020.8 南京大学      获硕士学位
+  education3: 2020.9-    同济大学
+
+- name: 梁桐启
+  photo: 梁桐启.jpg
+  info: 硕博连读
+  info1: 使用inclusive准弹性散射截面求原子核动量分布
+  email: liangtq@tongji.edu.cn
+  number_educ: 2
+  education1: 2014.9-2019.6 中国石油大学（华东）应用物理学专业，本科，获学士学位
+  education2: 2019.9-至今  同济大学，硕博连读

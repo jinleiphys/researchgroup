@@ -1,0 +1,62 @@
+- name: 郑启宇
+  photo: 郑启宇.jpg
+  info: 硕士生
+  info1: 根据QRPA程序解读推导公式、了解r过程的情况、为了计算合适的核素，查找适配的参数
+  email: 1930974@tongji.edu.cn
+  number_educ: 5
+  education1: 2014.9-2019.6 国立华侨大学应用物理学专业，本科，获学士学位
+  education2: 2019.9-至今 同济大学，硕士
+  education3: 
+  education4: 
+  education5: 
+
+- name: 梁桐启
+  photo: 梁桐启.jpg
+  info: 硕士生
+  info1: 使用inclusive准弹性散射截面求原子核动量分布
+  email: liangtq@tongji.edu.cn
+  number_educ: 2
+  education1: 2014.9-2019.6 中国石油大学（华东）应用物理学专业，本科，获学士学位
+  education2: 2019.9-至今  同济大学，硕士
+
+  
+- name: 董文娟
+  photo: wenjuandong.jpg
+  info: 硕士生
+  email: 1830995@tongji.edu.cn
+  number_educ: 2
+  education1: 2014.9-2018.7 郑州师范学院物理学专业, 获学士学位
+  education2: 2018.9- 同济大学  硕士生
+
+
+- name: 高永浩
+  photo: yonghaogao.jpg
+  info: 硕士生
+  email: yonghaogao@tongji.edu.cn
+  number_educ: 2
+  education1: 2016.9-2020.6 中国石油大学（华东）本科生，获学士学位
+  education2: 2020.9-至今  同济大学  硕士生
+
+  
+
+
+- name: 俞一信
+  photo: yyx.jpg
+  info: 硕士生
+  info1: 配对近似计算（用到的方法：Hartree—Fock，粒子数守恒BCS，角动量投影），和原子核局域质量关系
+  email: 1930952@tongji.edu.cn
+  number_educ: 2
+  education1: 2013-2017，浙江大学城市学院本科生，获学士学位
+  education2: 2019至今，同济大学 硕士研究生
+
+
+- name: 陈青云
+  photo: 陈青云照片.jpg
+  info: 硕士生
+  email: cqy18770769550@163.com
+  number_educ: 2
+  education1: 2016.9-2020.6 赣南师范大学 本科生，获学士学位
+  education2: 2020.9-至今 同济大学，研究生
+
+
+
